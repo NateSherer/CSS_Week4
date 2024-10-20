@@ -1,0 +1,30 @@
+body{
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    position: absolute;
+    width: 337px;
+    
+}
+
+
+.box{
+    background-color: red; 
+    width: 1000px;
+    height:50px;
+}
+
+.red{
+    background-color: white;
+    flex-direction: row;
+}
+
+.white{
+    background-color: red;
+}
+
+.red{
+    background-color: white;
+} 

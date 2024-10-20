@@ -1,0 +1,25 @@
+.box{
+        background-color: black;
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        display: inline-block;
+        margin: -2px;
+    }
+
+    .red{
+        background-color: red;
+    } 
+
+/*table{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+} */
+
+
+
+
+
+
+
